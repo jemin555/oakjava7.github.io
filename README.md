@@ -139,12 +139,21 @@ About the OakJava7 Programming Language
 Note: I spent 5 years to Design and create the Oakjava7 programming language. but unwanted hackers attack my website without any reason. That's why iam delayed. Oakjava7(JAVA7.0) programming language is not easy to design and invent it. To invent Oakjava7 programming language is very hard... Oakjava7(JAVA7.0) programming language is the technology wisdom given by God jehovah to me.
 
 Who may focus OakJava7(JAVA7.0) ?
+
 For Oakjava7 ,oakjava7 machinelearning,oakjava7 datascience only C or C++ or C# & Dotnet or Java/j2ee
 
 Professionals or Google Professionals can focus and read the samples. Because it is designed like this.
 
 Note: All oakjava7 documents are under construction.So don't read it now ,because it will confuse you.
-And all are done but iam working for Oakjava7 pdf documentation and OakJava7 scroll webapplication / Single Webapplication.
+And all are done but iam working for Oakjava7 pdf documentation and OakJava7 scroll webapplication / Single Webapplication  pdf documentation.
+after pdf documentation is over we will release Oakjava7 Programming Language.
+
+Why OakJava7 is  a Rank  A' programming Language and  Powerful Programming Language ?
+
+Because it is  equivalent to  C# + JAVA + C + OakJava7 Advanced  concepts +JAVA8.0 mobile webapplication + Oakjava7 New powerful Datastructures + Machine Learning
++ data science, etc. So it's orginal rank becomes Rank A'.Instead of Artificial Intelligence(AI) we  focus on
+  RAI, which stands for Remote Advanced Intelligence,which is invented by Wilmixjemin j. So when Oakjava7 second version and  RAI is released it's rank
+  will be  changed  as  Rank Z'. 
 
 Important Note:
 ==============
